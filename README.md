@@ -1,16 +1,16 @@
-# puzzle_app
+ <h1>Puzzle App </h1>
 
-A new Flutter project.
+Puzzle App designed to enhance problem-solving and logical thinking skills. The app features a clean and intuitive interface with different color themes, allowing users to customize their experience. Key elements include:
 
-## Getting Started
+ <h2>Dynamic Gameplay: </h2>
+  <p> Players solve math-based puzzles of varying difficulty levels. Each puzzle is timed, and the app tracks the number of moves made.</p>
+ <h2>Progress Tracking: </h2>
+  <p> The interface displays the elapsed time, moves attempted, and best scores for each level, motivating users to improve their performance. </p>
+  <h2>Theme Customization:</h2>
+  <p> Users can switch between vibrant themes (e.g., yellow, red, green, blue, and grey) using a color palette selector, providing a personalized and visually appealing experience. </p>
+   <h2>Level Advancement: </h2>
+  <p> After successfully completing a level, players are congratulated and prompted with a message about upcoming features or levels under development. </p>
 
-This project is a starting point for a Flutter application.
+The app is engaging, visually appealing, and ideal for users looking to have fun while challenging their mathematical and strategic thinking abilities.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Group 6](https://github.com/user-attachments/assets/ce3ff8ed-14eb-49ea-9c24-4fa43e5410f6)
